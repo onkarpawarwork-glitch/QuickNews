@@ -1,0 +1,29 @@
+{
+  "short_name": "QuickNews",
+  "name": "QuickNews: Live Instant Aggregator",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0e0e12",
+  "theme_color": "#6366f1",
+  "display": "standalone",
+  "orientation": "portrait"
+}
